@@ -7,5 +7,6 @@
 ![{65C1F899-216C-47D4-AEF0-C43624DC2281}](https://github.com/user-attachments/assets/d124ca1a-31c2-415c-acdc-158ad01f2925)
 
 ## Anydesk
-### Al momento de iniciar el programa nos da error de conexion a la red debido a las limitaciones de los equipos
-![Anotación 2024-12-09 132925](https://github.com/user-attachments/assets/0b74b1ba-8d1a-47f2-b631-5b90d09de3ab)
+### Al momento de iniciar el programa nos da error de conexion a la red debido a las limitaciones de los equipo
+![Anotación 2024-12-09 133355](https://github.com/user-attachments/assets/c81a1d36-3a10-4e18-a33f-bbc768b5e213)
+
