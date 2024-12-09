@@ -5,3 +5,7 @@
 
 ### Despues introduciremos la Direccion ip que nos saldra al pulsar la "ID" y por ultimo la contraseña
 ![{65C1F899-216C-47D4-AEF0-C43624DC2281}](https://github.com/user-attachments/assets/d124ca1a-31c2-415c-acdc-158ad01f2925)
+
+## Anydesk
+### Al momento de iniciar el programa nos da error de conexion a la red debido a las limitaciones de los equipos
+![Anotación 2024-12-09 132925](https://github.com/user-attachments/assets/0b74b1ba-8d1a-47f2-b631-5b90d09de3ab)
