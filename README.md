@@ -13,3 +13,8 @@
 ## Parsec
 ### Al momento de intentar conectarse a otro dispositivo salta el error -15000 (error of unsupported hardware)
 ![{77B97A4B-2D6D-47F4-9871-EC0713139A76}](https://github.com/user-attachments/assets/0a0849f5-dff5-44cd-802e-5ce0dd503219)
+
+## UltraVNC
+![{B003FB4E-1533-4BC6-BCB9-090C9BFEC413}](https://github.com/user-attachments/assets/22292d13-fb0d-4414-816a-e9cd93bf25ae)
+
+## RemoteDeks (Windows)
