@@ -18,4 +18,7 @@
 ### Utiliza tu ip y despues la contraseña asignada
 ![{B003FB4E-1533-4BC6-BCB9-090C9BFEC413}](https://github.com/user-attachments/assets/22292d13-fb0d-4414-816a-e9cd93bf25ae)
 
-## RemoteDeks (Windows)
+## Chrome Remote Desktop
+### A la hora de utilizar el chrome remote desktop podemos denotar que simplemente es una extension del navegador 
+![{18738D2A-3B64-4B2E-B949-C0C39BD6E0D3}](https://github.com/user-attachments/assets/a5be3666-c83c-4701-b131-ec06143fa449)
+
