@@ -35,4 +35,8 @@
 
 ![{87BD98C4-C9E4-4772-8CD4-B39D765D91B2}](https://github.com/user-attachments/assets/f3114953-7145-410d-a629-255a25139f94)
 ![{EF1DE0A5-08AF-41BB-8F2E-5BF364E43ABB}](https://github.com/user-attachments/assets/39cc227c-0e55-46ed-a6ec-b2828a09788b)
+### Esta aplicacion sinceramente nos funciona de manera nefasta (va via wifi asi que por eso nos va de mala manera) de todas formas el control del raton y el metodo de funcionamiento de Chore Remote Desktop es bastante mala
+### Esta seria la vista una vez estamos dentro de otro ordenador
+![Captura de pantalla (48)](https://github.com/user-attachments/assets/029e6737-5b46-4b9a-89af-62e1668e9895)
+
 
