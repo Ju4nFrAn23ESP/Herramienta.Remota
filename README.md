@@ -33,4 +33,6 @@
 ### Si elijes la opcion de compartir tienes que descargar directamente chrome remote desktop
 ![{E1D02B53-CB7F-48AA-A195-FBCB06EC68CA}](https://github.com/user-attachments/assets/fcb77976-4a63-45ea-8c00-c6634eed6bf8)
 
+![{87BD98C4-C9E4-4772-8CD4-B39D765D91B2}](https://github.com/user-attachments/assets/f3114953-7145-410d-a629-255a25139f94)
+![{EF1DE0A5-08AF-41BB-8F2E-5BF364E43ABB}](https://github.com/user-attachments/assets/39cc227c-0e55-46ed-a6ec-b2828a09788b)
 
