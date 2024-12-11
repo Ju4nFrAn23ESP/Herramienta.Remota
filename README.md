@@ -21,4 +21,6 @@
 ## Chrome Remote Desktop
 ### A la hora de utilizar el chrome remote desktop podemos denotar que simplemente es una extension del navegador 
 ![{18738D2A-3B64-4B2E-B949-C0C39BD6E0D3}](https://github.com/user-attachments/assets/a5be3666-c83c-4701-b131-ec06143fa449)
+### Una vez lo abramos nos aparecera las siguientes opciones, conectarnos o compartir patalla
+![{4D25BD81-E681-409C-8EF1-31FEF80516D4}](https://github.com/user-attachments/assets/a5c53bb2-005e-4f5e-a033-571a1c61751c)
 
