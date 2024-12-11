@@ -9,6 +9,9 @@
 ### Despues introduciremos la Direccion ip que nos saldra al pulsar la "ID" y por ultimo la contraseña
 ![{65C1F899-216C-47D4-AEF0-C43624DC2281}](https://github.com/user-attachments/assets/d124ca1a-31c2-415c-acdc-158ad01f2925)
 
+### Así seria la vista una vez estamos dentro de el ordenador que nos este "compartiendo pantalla"
+![{F12BB400-05F6-4ADD-BD6C-1951C2C18A1C}](https://github.com/user-attachments/assets/4d97aae1-4382-4393-b992-703bc0e9320d)
+
 ## Anydesk
 ### Al momento de iniciar el programa nos da error de conexion a la red debido a las limitaciones de los equipo
 ![Anotación 2024-12-09 133355](https://github.com/user-attachments/assets/c81a1d36-3a10-4e18-a33f-bbc768b5e213)
