@@ -1,4 +1,5 @@
 # Herramienta.Remota
+Vamos a presentar un "miniproyecto" acerca de algunas herraminetas de "remote desktop" 
 ## TeamViewer
  Al iniciar TeamViewer por primera vez aparecera lo siguiente:
 ![Anotación 2024-12-11 124439](https://github.com/user-attachments/assets/bfc221d7-e207-427f-b401-9ba676e5f251)
