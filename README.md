@@ -23,4 +23,7 @@
 ![{18738D2A-3B64-4B2E-B949-C0C39BD6E0D3}](https://github.com/user-attachments/assets/a5be3666-c83c-4701-b131-ec06143fa449)
 ### Una vez lo abramos nos aparecera las siguientes opciones, conectarnos o compartir patalla
 ![{4D25BD81-E681-409C-8EF1-31FEF80516D4}](https://github.com/user-attachments/assets/a5c53bb2-005e-4f5e-a033-571a1c61751c)
+![{91D9B21E-CA6C-4CF5-BDA2-6078F54C1D4E}](https://github.com/user-attachments/assets/751408fd-8ea0-466f-a7c9-5804ce1348d2)
+### Si elijes la opcion de compartir tienes que descargar directamente chrome remote desktop
+![{E1D02B53-CB7F-48AA-A195-FBCB06EC68CA}](https://github.com/user-attachments/assets/fcb77976-4a63-45ea-8c00-c6634eed6bf8)
 
