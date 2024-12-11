@@ -1,5 +1,5 @@
 # Herramienta.Remota
-Vamos a presentar un "miniproyecto" acerca de algunas herraminetas de "remote desktop" 
+Vamos a presentar un "miniproyecto" acerca de algunas **herraminetas** de "remote desktop" 
 # INTRODUCCION:
 En este proyecto hemos estado descargando y probando varias alplicaciones de control de escritorio remoto para que tu no tengas que buscar
 ## TeamViewer
