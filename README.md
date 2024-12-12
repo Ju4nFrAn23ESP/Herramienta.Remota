@@ -65,3 +65,8 @@ La experiencia con UltraVNC es muy poco intuitivo las opciones requieren de apli
 - [Descarga de UltraVNC](https://uvnc.com/downloads/ultravnc.html)
 - [Extension de Chrome Remote Destktop](https://chromewebstore.google.com/detail/chrome-remote-desktop/inomeogfingihgjfjlpeplalcfajhgai?)
 
+
+##AUTORES:
+Gorka
+Jonathan
+Juanfrancisco
