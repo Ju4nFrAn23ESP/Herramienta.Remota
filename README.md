@@ -69,4 +69,4 @@ La experiencia con UltraVNC es muy poco intuitivo las opciones requieren de apli
 ##AUTORES:
 @gxi19
 @pilolder
-Juanfrancisco
+@Ju4nFrAn23ESP
