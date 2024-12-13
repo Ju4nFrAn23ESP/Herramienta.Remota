@@ -67,6 +67,6 @@ La experiencia con UltraVNC es muy poco intuitivo las opciones requieren de apli
 
 
 ##AUTORES:
-Gorka
-Jonathan
+@gxi19
+@pilolder
 Juanfrancisco
